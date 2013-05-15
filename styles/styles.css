@@ -60,6 +60,10 @@ body {
     width:80%;
 	}
 
+.double-column {
+	width:40%;	
+	float:left;
+}
 
 h1 {
 	font-size: 1.8em;
