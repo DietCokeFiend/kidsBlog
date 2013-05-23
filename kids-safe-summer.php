@@ -73,6 +73,7 @@
 				</div>
 			</div>	  
        
+       <a href="#top">Go to top</a>
       </article>
 
       <hr />
@@ -115,5 +116,6 @@
   </div>
 
   <!-- End Main Content and Sidebar -->
+
 
 <?php include_once("includes/footer.php"); ?>
