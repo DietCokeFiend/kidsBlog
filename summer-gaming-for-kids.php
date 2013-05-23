@@ -1,4 +1,14 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 		<html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
 
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Summer Gaming For Kids - Kids Summer Zone</title>
+
+
+<?php include_once("includes/header.php"); ?>
 
 <!-- Main Page Content and Sidebar -->
 
@@ -33,10 +43,10 @@
 	<nav class="row">
 		<div class="large-6 columns">
 			<ul style="list-style:none;">
-				<li><a href="mobile-games-for-kids.html#angrybirds" title="Go to Angry Birds section">Angry Birds</a></li>
-				<li><a href="mobile-games-for-kids.html#whereswater" title="Go to Where's My Water section">Where's My Water</a></li>
-				<li><a href="mobile-games-for-kids.html#fruitninja" title="Go to Fruit Ninja section">Fruit Ninja</a></li>
-				<li><a href="mobile-games-for-kids.html#templerun" title="Go to Temple Run section">Temple Run</a></li>
+				<li><a href="summer-gaming-for-kids.php#angrybirds" title="Go to Angry Birds section">Angry Birds</a></li>
+				<li><a href="summer-gaming-for-kids.php#whereswater" title="Go to Where's My Water section">Where's My Water</a></li>
+				<li><a href="summer-gaming-for-kids.php#fruitninja" title="Go to Fruit Ninja section">Fruit Ninja</a></li>
+				<li><a href="summer-gaming-for-kids.php#templerun" title="Go to Temple Run section">Temple Run</a></li>
 			</ul>
 		</div>
 	</nav>
@@ -82,7 +92,7 @@
 			<figcaption class="text-center"><small>[ Where's My Water images taken by Grandmaster Q.  Free to use. ]</small></figcaption>
 		</figure>
 		
-		<ul style="no-bullet">
+		<ul class="no-bullet">
 			<li>Developer: Disney Games</li>
 			<li>Price: Free (PC/IOS/Android)</li>
 			<li>Rated: Everyone</li>
@@ -176,3 +186,4 @@
 
 <!-- End Main Content and Sidebar -->
 
+<?php include_once("includes/footer.php"); ?>
