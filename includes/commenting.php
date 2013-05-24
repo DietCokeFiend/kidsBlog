@@ -3,9 +3,12 @@
 	
 	try
 	{
-		$dbconn = new PDO(
+		/*$dbconn = new PDO(
 					'mysql:host=quinyung.com;dbname=tempdb',
-					'tempuser', 'phpkids!' );
+					'tempuser', 'phpkids!' );*/
+		$dbconn = new PDO(
+					'mysql:host=localhost;dbname=phptest',
+					'quin','assmaster1');
 	}
 	catch(PDOException $e)
 	{
@@ -23,7 +26,7 @@
 						comment_date_add)
 						VALUES (:screenname,:text,:url,:date)';
 			
-			$stmt = $db->prepare($query);
+			$stmt = $dbconn->prepare($query);
 			$result = $stmt->execute(
 				array(
 					':screenname'=>$_POST['comment_screenname'],
@@ -34,7 +37,8 @@
 			);
 		}
 	
-		header('Location: ' . $_SERVER['REQUEST_URI']);
+		//header('Location: ' . $_SERVER['REQUEST_URI']);
+		unset($_POST);
 	}
 	
 	function comment_list()
@@ -52,7 +56,7 @@
 		foreach($result as $record)
 		{
 			echo '<div>' . $record['comment_screenname'] . ' says: <br />' .
-					date('M j, Y', $record['comment_date_add'] . '<br />' .
+					date('M j, Y', $record['comment_date_add']) . '<br />' .
 					nl2br($record['comment_text']) . '</div><hr />';
 		}
 	}
@@ -70,7 +74,4 @@
 		<input type="submit" value="Add Comment" />
 	</form>
 </div>
-
-<div>
-	<?php comment_list() ?>
-</div>	
+	
