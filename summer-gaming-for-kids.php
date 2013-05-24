@@ -5,45 +5,10 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
-<title>Kids Summer Zone</title>
-
-<link rel="stylesheet" href="css/normalize.css" />
-<link rel="stylesheet" href="css/foundation.css" />
-<link rel="stylesheet" href="css/main.css" />
+<title>Summer Gaming For Kids - Kids Summer Zone</title>
 
 
-<script src="js/vendor/custom.modernizr.js"></script>
-
-</head>
-<body>
-
-
-<!-- Nav Bar -->
-
-<div class="row">
-<header class="large-12 columns">
-	<div class="nav-bar right">
-	   <ul class="button-group">
-		<li><a href="#" class="button">Link 1</a></li>
-		 <li><a href="#" class="button">Link 2</a></li>
-		 <li><a href="#" class="button">Link 3</a></li>
-		 <li><a href="#" class="button">Link 4</a></li>
-		</ul>
-	</div>
-	<h1>
-		<a href="index.php"><img src="img/logo.png" class="logo" alt="Kids Summer Zone Logo" title="Summer Kids Zone Home"/></a>
-	</h1>
-	<div class="row">
-		<div class="large-12 columns">
-			<h6>The #1 online source for getting rid of your kids for the summer in the Greater Toronto Area.</h6>
-		</div>
-	</div>
-	<hr />
-</header>
-</div>
-
-<!-- End Nav -->
-
+<?php include_once("includes/header.php"); ?>
 
 <!-- Main Page Content and Sidebar -->
 
@@ -78,10 +43,10 @@
 	<nav class="row">
 		<div class="large-6 columns">
 			<ul style="list-style:none;">
-				<li><a href="mobile-games-for-kids.html#angrybirds" title="Go to Angry Birds section">Angry Birds</a></li>
-				<li><a href="mobile-games-for-kids.html#whereswater" title="Go to Where's My Water section">Where's My Water</a></li>
-				<li><a href="mobile-games-for-kids.html#fruitninja" title="Go to Fruit Ninja section">Fruit Ninja</a></li>
-				<li><a href="mobile-games-for-kids.html#templerun" title="Go to Temple Run section">Temple Run</a></li>
+				<li><a href="summer-gaming-for-kids.php#angrybirds" title="Go to Angry Birds section">Angry Birds</a></li>
+				<li><a href="summer-gaming-for-kids.php#whereswater" title="Go to Where's My Water section">Where's My Water</a></li>
+				<li><a href="summer-gaming-for-kids.php#fruitninja" title="Go to Fruit Ninja section">Fruit Ninja</a></li>
+				<li><a href="summer-gaming-for-kids.php#templerun" title="Go to Temple Run section">Temple Run</a></li>
 			</ul>
 		</div>
 	</nav>
@@ -127,7 +92,7 @@
 			<figcaption class="text-center"><small>[ Where's My Water images taken by Grandmaster Q.  Free to use. ]</small></figcaption>
 		</figure>
 		
-		<ul style="no-bullet">
+		<ul class="no-bullet">
 			<li>Developer: Disney Games</li>
 			<li>Price: Free (PC/IOS/Android)</li>
 			<li>Rated: Everyone</li>
@@ -221,69 +186,4 @@
 
 <!-- End Main Content and Sidebar -->
 
-
-<!-- Footer -->
-
-<footer class="row">
-<div class="large-12 columns">
-  <hr />
-  <div class="row">
-	<div class="large-6 columns">
-	  <p>&copy; Copyright Web4Solution. 2013.</p>
-	</div>
-	<div class="large-6 columns">
-	  <ul class="inline-list right">
-		<li><a href="#">Link 1</a></li>
-		<li><a href="#">Link 2</a></li>
-		<li><a href="#">Link 3</a></li>
-		<li><a href="#">Link 4</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-</footer>
-
-<script>
-document.write('<script src=' +
-('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
-'.js><\/script>')
-</script>
-
-<script src="js/foundation.min.js"></script>
-<!--
-
-<script src="js/foundation/foundation.js"></script>
-
-<script src="js/foundation/foundation.dropdown.js"></script>
-
-<script src="js/foundation/foundation.placeholder.js"></script>
-
-<script src="js/foundation/foundation.forms.js"></script>
-
-<script src="js/foundation/foundation.alerts.js"></script>
-
-<script src="js/foundation/foundation.magellan.js"></script>
-
-<script src="js/foundation/foundation.reveal.js"></script>
-
-<script src="js/foundation/foundation.tooltips.js"></script>
-
-<script src="js/foundation/foundation.clearing.js"></script>
-
-<script src="js/foundation/foundation.cookie.js"></script>
-
-<script src="js/foundation/foundation.joyride.js"></script>
-
-<script src="js/foundation/foundation.orbit.js"></script>
-
-<script src="js/foundation/foundation.section.js"></script>
-
-<script src="js/foundation/foundation.topbar.js"></script>
-
--->
-
-<script>
-$(document).foundation();
-</script>
-</body>
-</html>
+<?php include_once("includes/footer.php"); ?>

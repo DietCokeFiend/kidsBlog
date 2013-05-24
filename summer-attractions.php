@@ -12,6 +12,7 @@
 	
   <title>Places to visit in summer</title>
 
+<<<<<<< HEAD:summer-attractions.html
    <link rel="stylesheet" href="css/normalize.css" />
   <link rel="stylesheet" href="css/foundation.css" />
   
@@ -36,6 +37,9 @@
     </div>
   </div>
 	<!--End of Navigation-->
+=======
+<?php include_once("includes/header.php"); ?>
+>>>>>>> 14e38a6c5c1ba488fb55e876f744325d5a14e88e:summer-attractions.php
 	
 	<!-- Main Blog Content -->
 
@@ -108,6 +112,7 @@
 				
 	
 				</div>
+<<<<<<< HEAD:summer-attractions.html
 	
 	<!-- Main Blog Content -->
 	
@@ -157,3 +162,7 @@
   </script>
 </body>
 </html>
+=======
+  
+  <?php include_once("includes/footer.php"); ?>
+>>>>>>> 14e38a6c5c1ba488fb55e876f744325d5a14e88e:summer-attractions.php
