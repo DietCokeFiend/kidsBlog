@@ -12,34 +12,8 @@
 	
   <title>Places to visit in summer</title>
 
-<<<<<<< HEAD:summer-attractions.html
-   <link rel="stylesheet" href="css/normalize.css" />
-  <link rel="stylesheet" href="css/foundation.css" />
-  
 
-  <script src="js/vendor/custom.modernizr.js"></script>
-
-</head>
-<body>
-	<!--Navigation-->
-	<div class="row">
-    <div class="large-12 columns">
-      <div class="nav-bar right">
-       <ul class="button-group">
-         <li><a href="#" class="button">Link 1</a></li>
-         <li><a href="#" class="button">Link 2</a></li>
-         <li><a href="#" class="button">Link 3</a></li>
-         <li><a href="#" class="button">Link 4</a></li>
-        </ul>
-      </div>
-      <h1>Blog <small>This is my blog. It's awesome.</small></h1>
-      <hr />
-    </div>
-  </div>
-	<!--End of Navigation-->
-=======
 <?php include_once("includes/header.php"); ?>
->>>>>>> 14e38a6c5c1ba488fb55e876f744325d5a14e88e:summer-attractions.php
 	
 	<!-- Main Blog Content -->
 
@@ -112,57 +86,5 @@
 				
 	
 				</div>
-<<<<<<< HEAD:summer-attractions.html
-	
-	<!-- Main Blog Content -->
-	
-	
-   
-  <script>
-  document.write('<script src=' +
-  ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
-  '.js><\/script>')
-  </script>
-  
-  <script src="js/foundation.min.js"></script>
-  <!--
-  
-  <script src="js/foundation/foundation.js"></script>
-  
-  <script src="js/foundation/foundation.dropdown.js"></script>
-  
-  <script src="js/foundation/foundation.placeholder.js"></script>
-  
-  <script src="js/foundation/foundation.forms.js"></script>
-  
-  <script src="js/foundation/foundation.alerts.js"></script>
-  
-  <script src="js/foundation/foundation.magellan.js"></script>
-  
-  <script src="js/foundation/foundation.reveal.js"></script>
-  
-  <script src="js/foundation/foundation.tooltips.js"></script>
-  
-  <script src="js/foundation/foundation.clearing.js"></script>
-  
-  <script src="js/foundation/foundation.cookie.js"></script>
-  
-  <script src="js/foundation/foundation.joyride.js"></script>
-  
-  <script src="js/foundation/foundation.orbit.js"></script>
-  
-  <script src="js/foundation/foundation.section.js"></script>
-  
-  <script src="js/foundation/foundation.topbar.js"></script>
-  
-  -->
-  
-  <script>
-    $(document).foundation();
-  </script>
-</body>
-</html>
-=======
-  
   <?php include_once("includes/footer.php"); ?>
->>>>>>> 14e38a6c5c1ba488fb55e876f744325d5a14e88e:summer-attractions.php
+
