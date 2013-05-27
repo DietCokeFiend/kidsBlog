@@ -23,7 +23,7 @@
 
   <article>
 
-	<h2>Gaming Distractions for the Summer</h2>
+	<h2>Gaming Distractions for the Hot Season</h2>
 	<h6>
 		<img src="img/quin.jpg" class="profile-img" alt="Image of Grandmaster Q" />
 		Written by Grandmaster Q. on May 21, 2013.
@@ -31,7 +31,7 @@
 
 	<div class="row">
 	  <div class="large-6 columns">
-		<p>With summer already here, some of you have enrolled your kids in some sort of summer camp.For those who have missed the deadline or for whatever reason have not found a way to escape the constant terror of your kids, you may have to resort to other methods of losing them.</p>
+		<p>With Summer already here, some of you have enrolled your children in some sort of camp. For those who have missed the deadline or for whatever reason have not found a way to escape the constant terror of your lovable part-time demons, you may have to resort to other methods of losing them.</p>
 		<p>During the day, you may take them to the various events or activities available around the Greater Toronto Area. What about when they get home? What do you do?</p>
 	  </div>
 	  <div class="large-6 columns">
@@ -39,9 +39,9 @@
 	  </div>
 	</div>
 
-	<p>The video game industry over the years have grown trememdously.  With mobile gaming being a big factor in the gaming industry today, it is very easy for kids to pick up a tablet or smartphone and dive right into the plethora of free games available.</p>
+	<p>The video game industry over the years have grown trememdously.  With mobile gaming being a big factor in the gaming industry today, it is very easy for your little to pick up a tablet or smartphone and dive right into the plethora of free games available.</p>
 
-	<p>Here we have compiled a list of games that will keep your kids distracted for a while.</p>
+	<p>Here we have compiled a list of games that will keep your the little tykes distracted for a while.</p>
 
 	<nav class="row">
 		<div class="large-6 columns">
