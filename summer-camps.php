@@ -6,8 +6,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width" />
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-	<meta name="description" content="unusual summer camps  for kids">
-	<meta name="keywords" content="summer camps, fun activities, summer, kids, children" >
+	<meta name="description" content="unusual camps  for kids">
+	<meta name="keywords" content="summer camps, fun activities, kids, children" >
 	<meta name="author" content="Poly Greenberg">
 
 
@@ -40,22 +40,22 @@
 				</div>
 				<div class="large-12 columns">
 					<p><b>	Toronto Brigantine</b></p> <p>
-					 If your kid loves water, this is an ideal camp for you. An unforgettable summer adventure on the Great Lakes onboard Canada’s majestic Tall Ships- learn how to set sails, climb aloft, take the helm, stand watch and more. Along with leadership skills and team work.  <a href="http://www.torontobrigantine.org/" title="Toronto Brigantine Camp website">To the Toronto Brigantine Camp website.. </a>
+					 If your kid loves water, this is an ideal spot for you. An unforgettable adventure on the Great Lakes onboard Canada’s majestic Tall Ships- learn how to set sails, climb aloft, take the helm, stand watch and more. Along with leadership skills and team work.  <a href="http://www.torontobrigantine.org/" title="Toronto Brigantine website">To the Toronto Brigantine Camp website.. </a>
 					 </p>	
 				</div>
 				<div class="large-12 columns">
 					<p><b>	Discovery camps: Royal Botanical Garden  </b></p> <p>
-					 The Royal botanical camp is a great place to spend time in nature and to expend the knowledge about the amazing Canada's natural areas. The respect and appreciation for the natural world is the motto of this camp.    <a href="http://www.rbg.ca/files/pdf/publicprograms/camps/RBGsumCamps2013.pdf" title="Royal Botanical Garden Camp">To the Royal Botanical Garden Camp .. </a>
+					 The Royal botanical camp is a great place to spend time in nature and to expend the knowledge about the amazing Canada's natural areas. The respect and appreciation for the natural world is the motto of this camp.    <a href="http://www.rbg.ca/files/pdf/publicprograms/camps/RBGsumCamps2013.pdf" title="Royal Botanical Garden">To the Royal Botanical Garden Camp .. </a>
 					 </p>	
 				</div>
                 <div class="large-12 columns">
-					<p><b>	Summer Theatre Camp</b></p> <p>
-					 a 5-day camp program for youth with an interest in the performing arts. During the time in camp, the youth participate in  theatre games, activity and development as well as rehearsing a final production at the last day. <a href="http://www.fridgedoorlive.com/" title="Royal Botanical Garden Camp">To the Summer Theatre Camp website.. </a>
+					<p><b> Theatre Camp</b></p> <p>
+					 a 5-day program for youth with an interest in the performing arts. During the time here, the youth participate in  theatre games, activity and development as well as rehearsing a final production at the last day. <a href="http://www.fridgedoorlive.com/" title="Royal Botanical Garden Camp">go to the Summer-Theatre website.. </a>
 					 </p>
 				</div>
                 <div class="large-12 columns" style="float:left;">
 					<p><b>	Hoop Dreams Overnight Basketball Camp </b></p> <p>
-					 For the Basketball lovers, here is a camp that is all about that sport. The youth work on their game, learn and have fun playing basketball all day in a outdoor setting. This camp is both for girls and boys. Playing, meeting new friends and team work all in this unforgettable one or two weeks camp.   <a href="http://elitecamps.com/overnight-camp/" title="Hoop Dreams Overnight Basketball Camp">To the Hoop Dreams Overnight Basketball Camp .. </a>
+					 For the Basketball lovers, here is an adventure that is all about that sport. The youth work on their game, learn and have fun playing basketball all day in a outdoor setting. This place is both for girls and boys. Playing, meeting new friends and team work all in this unforgettable one or two weeks.   <a href="http://elitecamps.com/overnight-camp/" title="Hoop Dreams Overnight Basketball Camp">To the Hoop Dreams Overnight Basketball Camp .. </a>
 					 </p>
 					 <a href="#top" title="direct to the top part of the page">Go to top</a>
 				</div>
