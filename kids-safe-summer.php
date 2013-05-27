@@ -23,20 +23,20 @@
 
       <article>
 
-        <h3><a href="kids-safe-summer.html" title="Kids safe outside">Keeping kids safe outside during summer</a></h3>
-        <h6>Written by Mercy - on May 22, 2013.</h6>
+        <h3>Keeping kiddies safe outside during warm season.</h3>
+        <h6>Written by Mercy Loachamin - on May 22, 2013.</h6>
 
 		<div class="row">
 		<div class="large-12 columns">
 		<div class="panel">
-		<img src="img/summer.jpeg" alt="summer ideas" title="Happy summer time">
+		<img src="img/summer.jpeg" alt="warm time ideas" title="Happy warm season">
 		</div>
 		</div>
 		</div>
 		<div class="row">
 				<div class="large-12 columns">
 					
-						<p>When it comes to outdoor play activities there are few simple rules that every parent and their children should follow. The most important rule is always keep adult supervision, parental supervision can prevent dangerous situations when kids are playing.</p>
+						<p>When it comes to outdoor play activities there are few simple rules that every parent and their children should follow. The most important rule is always keep adult supervision, parental supervision can prevent dangerous situations when little ones are playing.</p>
 					
 				</div>
 		</div>
@@ -44,7 +44,7 @@
 		<div class="row">
 				<div class="large-12 columns">
 					
-						<p>Be sure that the area your child is playing is safe and appropriate for the child's age. If your child is too small do not let him on an older child's playground because little ones do not have the skills and strength to manage situations by themselves.</p>
+						<p>Be sure that the area your kiddy is playing is safe and appropriate for the child's age. If your child is too small do not let him on an older child's playground because little ones do not have the skills and strength to manage situations by themselves.</p>
 					
 				</div>
 			</div>
@@ -52,7 +52,7 @@
 			<div class="row">
 				<div class="large-12 columns">
 					
-						<p>Young children skin is particularly delicate and sensitive; too much exposure to ultraviolet radiation from the sun can burn the kid's skin a lot faster. Using sun-protecting cream, light clothes with long-sleeved and a hat will help. It's a good idea to avoid being in direct sun during 10am and 3pm, when the sun's rays are most intense.</p>
+						<p>Young children skin is particularly delicate and sensitive; too much exposure to ultraviolet radiation from the sun can burn the kiddie's skin a lot faster. Using sun-protecting cream, light clothes with long-sleeved and a hat will help. It's a good idea to avoid being in direct sun during 10am and 3pm, when the sun's rays are most intense.</p>
 					
 				</div>
 			</div>
@@ -60,7 +60,7 @@
 			<div class="row">
 				<div class="large-12 columns">
 					
-						<p>Make sure to keep adult supervision when kids are around water. Avoid letting recipients with water around little kids and keep those upside down if you are not using them so they can't fill up with water. If you have a swimming pool at home check often that the pool fence is in good condition and it's complies with safety standards.</p>
+						<p>Make sure to keep adult supervision when little ones are around water. Avoid letting recipients with water around little ones and keep those upside down if you are not using them so they can't fill up with water. If you have a swimming pool at home check often that the pool fence is in good condition and it's complies with safety standards.</p>
 					
 				</div>
 			</div>
