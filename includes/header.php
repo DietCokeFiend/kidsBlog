@@ -15,14 +15,16 @@
 <header class="large-12 columns">
 	<div class="nav-bar right">
 	   <ul class="button-group">
-		<li><a href="#" class="button">Link 1</a></li>
-		 <li><a href="#" class="button">Link 2</a></li>
-		 <li><a href="#" class="button">Link 3</a></li>
-		 <li><a href="#" class="button">Link 4</a></li>
+		<li><a href="http://www.quinyung.com/kids-summer-zone/" title="Kids Summer Zone Home Page" class="button">Home</a></li>
+		<li><a href="http://www.quinyung.com/kids-summer-zone/summer-attractions.php" class="button" title="Summer Attractions for Kids">Attractions</a></li>
+		<li><a href="http://www.quinyung.com/kids-summer-zone/summer-outdoor-activities.php" class="button" title="Summer Outdoor Activities for Kids">Activities</a></li>
+		<li><a href="http://www.quinyung.com/kids-summer-zone/summer-camps.php" class="button" title="Summer Camp for Kids">Camps</a></li>
+		<li><a href="http://www.quinyung.com/kids-summer-zone/kids-safe-summer.php" class="button" title="Summer Safety for Kids">Safety</a></li>
+		<li><a href="http://www.quinyung.com/kids-summer-zone/summer-gaming-for-kids.php" class="button">Gaming</a></li>
 		</ul>
 	</div>
 	<h1>
-		<a href="index.php"><img src="img/logo.png" class="logo" alt="Kids Summer Zone Logo" title="Summer Kids Zone Home"/></a>
+		<a href="index.php"><img src="img/kids-logo.png" class="logo" alt="Kids Summer Zone Logo" title="Summer Kids Zone Home"/></a>
 	</h1>
 	<div class="row">
 		<div class="large-12 columns">

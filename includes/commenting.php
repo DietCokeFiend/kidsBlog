@@ -32,7 +32,7 @@
 					':screenname'=>$_POST['comment_screenname'],
 					':text'=>$_POST['comment_text'],
 					':url'=>$_SERVER['REQUEST_URI'],
-					':date'=> mktime()
+					':date'=> time()
 				)
 			);
 		}
@@ -63,7 +63,7 @@
 ?>	
 
 <div>
-	<form method="post" action="">
+	<form method="post">
 		Screen Name:
 		<input type="text" name="comment_screenname" />
 		<br />

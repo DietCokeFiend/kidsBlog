@@ -189,4 +189,5 @@
 
 <!-- End Main Content and Sidebar -->
 
-<?php include_once("includes/footer.php"); ?>
+<?php include_once("includes/commentform.php");
+ include_once("includes/footer.php"); ?>

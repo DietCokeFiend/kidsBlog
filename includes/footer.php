@@ -2,23 +2,6 @@
 	$current_url = 'http://www.quinyung.com' . $_SERVER['REQUEST_URI']; 
 ?>                                          
 <!-- Footer -->
-	<div class="row">
-		<div class="large-12 columns">
-				<div class="row">
-					<div class="large-8 columns">
-						<div class="panel">
-							<h3>Comments</h3>
-							<?php include_once("includes/commenting.php"); ?>
-						</div>
-					</div>
-					<div class="large-12 columns">
-						<?php comment_list(); ?>
-					</div>
-				</div>
-			
-			
-		</div>
-	</div>
 	
 	  <footer class="row">
 		<div class="large-12 columns">
@@ -30,9 +13,9 @@
 					<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-					<a href="http://www.linkedin.com/shareArticle?url=<?= $current_url ?>&title=Page Title&source=quinyung.com/kids-summer-zone/"><img src="img/linkedin.jpg" width="8%"  alt="link to linkedin" Title="link to linkedin"></a>
+					<a href="http://www.linkedin.com/shareArticle?url=<?= $current_url ?>&amp;title=Page%20Title&amp;source=quinyung.com/kids-summer-zone/"><img src="img/linkedin.jpg" style="width:8%"  alt="link to linkedin" Title="link to linkedin"></a>
 
-					<a href="http://www.facebook.com/share.php?u=<?= $current_url ?>&title=Page Title"><img src="img/facebook.jpg" width="12%"  alt="link to facebook" Title="link to facebook"></a>
+					<a href="http://www.facebook.com/share.php?u=<?= $current_url ?>&amp;title=Page%20Title"><img src="img/facebook.jpg" style="width:12%"  alt="link to facebook" Title="link to facebook"></a>
 				  
 				</div>
 				<div class="large-8 columns">
@@ -42,6 +25,7 @@
 					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-outdoor-activities.php" title="Summer Outdoor Activities for Kids">Activities</a></li>
 					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-camps.php" title="Summer Camp for Kids">Camps</a></li>
 					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-gaming-for-kids.php">Gaming</a></li>
+					<li><a href="http://www.quinyung.com/kids-summer-zone/kids-safe-summer.php" title="Summer Safety for Kids">Safety</a></li>
 					<li><a href="http://www.quinyung.com/kids-summer-zone/sitemap.xml" title="Kids Summer Zone Sitemap XML">Sitemap</a></li>
 				  </ul>
 				</div>
