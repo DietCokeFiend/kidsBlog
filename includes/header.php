@@ -20,7 +20,7 @@
 		<li><a href="http://www.quinyung.com/kids-summer-zone/summer-outdoor-activities.php" class="button" title="Summer Outdoor Activities for Kids">Activities</a></li>
 		<li><a href="http://www.quinyung.com/kids-summer-zone/summer-camps.php" class="button" title="Summer Camp for Kids">Camps</a></li>
 		<li><a href="http://www.quinyung.com/kids-summer-zone/kids-safe-summer.php" class="button" title="Summer Safety for Kids">Safety</a></li>
-		<li><a href="http://www.quinyung.com/kids-summer-zone/summer-gaming-for-kids.php" class="button">Gaming</a></li>
+		<li><a href="http://www.quinyung.com/kids-summer-zone/summer-gaming-for-kids.php" title="Summer Gaming for Kids" class="button">Gaming</a></li>
 		</ul>
 	</div>
 	<h1>
