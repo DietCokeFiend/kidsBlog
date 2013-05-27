@@ -21,11 +21,11 @@
 				<div class="large-8 columns">
 				  <ul class="inline-list right">
 					<li><a href="http://www.quinyung.com/kids-summer-zone/" title="Kids Summer Zone Home Page">Home</a></li>
-					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-attractions.php" title="Summer Attractions for Kids">Attractions</a></li>
-					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-outdoor-activities.php" title="Summer Outdoor Activities for Kids">Activities</a></li>
-					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-camps.php" title="Summer Camp for Kids">Camps</a></li>
-					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-gaming-for-kids.php" title="Summer Gaming for Kids">Gaming</a></li>
-					<li><a href="http://www.quinyung.com/kids-summer-zone/kids-safe-summer.php" title="Summer Safety for Kids">Safety</a></li>
+					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-attractions" title="Summer Attractions for Kids">Attractions</a></li>
+					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-outdoor-activities" title="Summer Outdoor Activities for Kids">Activities</a></li>
+					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-camps" title="Summer Camp for Kids">Camps</a></li>
+					<li><a href="http://www.quinyung.com/kids-summer-zone/summer-gaming-for-kids" title="Summer Gaming for Kids">Gaming</a></li>
+					<li><a href="http://www.quinyung.com/kids-summer-zone/kids-safe-summer" title="Summer Safety for Kids">Safety</a></li>
 					<li><a href="http://www.quinyung.com/kids-summer-zone/sitemap.xml" title="Kids Summer Zone Sitemap XML">Sitemap</a></li>
 				  </ul>
 				</div>

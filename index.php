@@ -32,7 +32,7 @@
 					<div class="panel">
 						<img src="img/smiling-kids.jpeg" alt="smiling kids on the grass" title="smiling kids">
 						<p>Summer is almost here!! Let kids have a lot of fun outdoors, their age demands to explore the nature as everything they find outdoors is new and exciting for them.</p>
-						<a href="summer-outdoor-activities.php" title="link to summer outdoor activities ">Read more about summer outdoor activities </a>
+						<a href="summer-outdoor-activities" title="link to summer outdoor activities ">Read more about summer outdoor activities </a>
 					</div>
 				</div>
 				<div class="large-3 columns">
@@ -40,7 +40,7 @@
 					<div class="panel">
 						<img src="img/angry-birds1.jpg" alt="mobile game angry birds" title="mobile game angry birds"/>
 						<p>With summer already here, some of you have enrolled your kids in some sort of summer camp. What about when they get home? What do you do?</p>
-						<a href="mobile-games-for-kids.php" title="mobile games for kids">Read more about Mobile games for kids </a>
+						<a href="summer-gaming-for-kids" title="mobile games for kids">Read more about Mobile games for kids </a>
 					</div>
 				</div>
 				<div class="large-3 columns">
@@ -48,14 +48,14 @@
 					<div class="panel">
 						<img src="img/summer.jpeg" alt="summer ideas" title="Happy summer time">
 						<p>Children find a lot of pleasure in outdoor play activities. Here are some suggestions to follow  to make sure that our kids are safe. </p>
-						<a href="kids-safe-summer.php" title="keeping kids safe in summer post ">Read more about keeping kids safe in summer </a>
+						<a href="kids-safe-summer" title="keeping kids safe in summer post ">Read more about keeping kids safe in summer </a>
 					</div>
 				</div>
                 <div class="large-3 columns">
 					<div class="panel">
 						<img src="img/lionsafari.jpg" alt="lion safari" title="lion safari" >
 						<p>Looking for ideas where to go with your kids in summer?</p>
-						<a href="summer-attractions.php" title="post about different places to visit with your kids in summer">Read more about different places to visit with your kids in summer </a>
+						<a href="summer-attractions" title="post about different places to visit with your kids in summer">Read more about different places to visit with your kids in summer </a>
 					</div>
 				</div>
 			</div>
@@ -66,7 +66,7 @@
 						<img src="img/swing-under-tree.jpg" alt="swing under tree" title="swing under tree"/>
 						<p> The most unusual camps that you can find in Ontario waiting for your kids..
 						</p>
-						<a href="summer-camps.php" title="post about nusual summer camps">Read more about unusual summer camps </a>
+						<a href="summer-camps" title="post about nusual summer camps">Read more about unusual summer camps </a>
 					</div>
 				</div>
 			</div>
