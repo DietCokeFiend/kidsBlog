@@ -9,16 +9,16 @@
 	<meta name="Description" content="Blog for parents and kids for the summer">
 	<meta name="keywords" content="kids, children, summer, parent, safe" >
 	<meta name="author" content="">
-  
+
   <title>Safe Summer</title>
 
  <?php include_once("includes/header.php"); ?>
 	<div class="row">
-		<div class="large-10 columns">
-			<h2>Welcome to Kids Blog</h2>
+		<div class="large-8 columns">
+			<h2>Welcome to Kids Summer Zone</h2>
 			<hr />
             <div class="panel">
-            <img src="img/home-kids.jpg" style="width:50%; " alt=" playing ball"/>
+            <img src="img/home-kids.jpg" alt=" playing ball"/>
             </div>
 		</div>
 	</div>
@@ -30,13 +30,13 @@
 			<div class="row">
 				<div class="large-3 columns">
 					<div class="panel">
-						<img src="img/smiling-kids.jpeg" alt="smiling kids on the grass" title="smiling kids"> 
+						<img src="img/smiling-kids.jpeg" alt="smiling kids on the grass" title="smiling kids">
 						<p>Summer is almost here!! Let kids have a lot of fun outdoors, their age demands to explore the nature as everything they find outdoors is new and exciting for them.</p>
 						<a href="summer-outdoor-activities.php" title="link to summer outdoor activities ">Read more about summer outdoor activities </a>
 					</div>
 				</div>
 				<div class="large-3 columns">
-					
+
 					<div class="panel">
 						<img src="img/angry-birds1.jpg" alt="mobile game angry birds" title="mobile game angry birds"/>
 						<p>With summer already here, some of you have enrolled your kids in some sort of summer camp. What about when they get home? What do you do?</p>
@@ -44,7 +44,7 @@
 					</div>
 				</div>
 				<div class="large-3 columns">
-					
+
 					<div class="panel">
 						<img src="img/summer.jpeg" alt="summer ideas" title="Happy summer time">
 						<p>Children find a lot of pleasure in outdoor play activities. Here are some suggestions to follow  to make sure that our kids are safe. </p>
@@ -63,7 +63,7 @@
 		<div class="row">
                 <div class="large-3 columns" style="float:left;">
 					<div class="panel">
-						<img src="img/swing-under-tree.jpg" alt="swing under tree" title="swing under tree"/> 
+						<img src="img/swing-under-tree.jpg" alt="swing under tree" title="swing under tree"/>
 						<p> The most unusual camps that you can find in Ontario waiting for your kids..
 						</p>
 						<a href="summer-camps.php" title="post about nusual summer camps">Read more about unusual summer camps </a>
