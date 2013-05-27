@@ -23,11 +23,10 @@
 
   <article>
 
-	<h2><a href="#">Gaming Distractions for the Summer</a></h2>
+	<h2>Gaming Distractions for the Summer</h2>
 	<h6>
 		<img src="img/quin.jpg" class="profile-img" alt="Image of Grandmaster Q" />
-		Written by <a href="#">Grandmaster Q.
-		</a> on May 21, 2013.
+		Written by Grandmaster Q. on May 21, 2013.
 	</h6>
 
 	<div class="row">
