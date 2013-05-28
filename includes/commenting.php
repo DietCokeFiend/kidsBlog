@@ -37,8 +37,7 @@
 			);
 		}
 	
-		//header('Location: ' . $_SERVER['REQUEST_URI']);
-		unset($_POST);
+		header('Location: ' . $_SERVER['REQUEST_URI']);
 	}
 	
 	function comment_list()
@@ -55,23 +54,12 @@
 		
 		foreach($result as $record)
 		{
-			echo '<div>' . $record['comment_screenname'] . ' says: <br />' .
-					date('M j, Y', $record['comment_date_add']) . '<br />' .
-					nl2br($record['comment_text']) . '</div><hr />';
+			echo '<aside class="comment">' .
+					'<div>'. $record['comment_screenname'] . ' says: </div>' .
+					'<div>' . date('M j, Y', $record['comment_date_add']) . '</div>' .
+					'<div>' . nl2br($record['comment_text']) . '</div>' 
+				. '</aside>';
 		}
 	}
 ?>	
 
-<div>
-	<form method="post">
-		Screen Name:
-		<input type="text" name="comment_screenname" />
-		<br />
-		Comment:
-		<br />
-		<textarea name="comment_text"></textarea>
-		<br>
-		<input type="submit" value="Add Comment" />
-	</form>
-</div>
-	

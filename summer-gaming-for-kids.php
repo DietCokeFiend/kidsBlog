@@ -1,3 +1,5 @@
+<?php include_once("includes/commenting.php"); ?>
+
 <!DOCTYPE html>
 <!--[if IE 8]> 		<html class="no-js lt-ie9" lang="en" > <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
@@ -158,6 +160,7 @@
 		<p>There you have it, <i>folks</i>. Great games to <del>distract</del> entertainment your little ones for a bit.</p>
 	  </div>
   </div>
+  <hr />
 </div>
 <!-- End Main Content -->
 

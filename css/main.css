@@ -26,3 +26,8 @@ img.slender-img {
 figcaption {
 	margin: 10px 0 10px 0;
 }
+
+.comment {
+	border: 1px solid #bbbbbb;
+	padding: 10px;
+}
