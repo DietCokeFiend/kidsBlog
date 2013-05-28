@@ -1,6 +1,4 @@
-<?php
-	$current_url = 'http://www.quinyung.com' . $_SERVER['REQUEST_URI'];
-?>
+
 <!-- Footer -->
 
 	  <footer class="row">

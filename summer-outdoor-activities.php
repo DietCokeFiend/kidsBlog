@@ -91,7 +91,6 @@
     <!-- Sidebar -->
 
     <aside class="large-3 columns">
-
       
       <div class="panel">
         <img src="img/girl-with-sunglasses.jpg" alt="little girl using sunglasses" title="girl with sunglasses">

@@ -19,7 +19,7 @@
 <div class="row">
 
 <!-- Main Blog Content -->
-<div class="large-9 columns">
+<div class="large-12 columns">
 
   <article>
 
@@ -30,11 +30,11 @@
 	</h6>
 
 	<div class="row">
-	  <div class="large-6 columns">
+	  <div class="large-8 columns">
 		<p>With Summer already here, some of you have enrolled your children in some sort of camp. For those who have missed the deadline or for whatever reason have not found a way to escape the constant terror of your lovable part-time demons, you may have to resort to other methods of losing them.</p>
 		<p>During the day, you may take them to the various events or activities available around the Greater Toronto Area. What about when they get home? What do you do?</p>
 	  </div>
-	  <div class="large-6 columns">
+	  <div class="large-4 columns">
 		<img src="img/kids-play.jpg"  alt="Two kids playing"/>
 	  </div>
 	</div>
@@ -56,7 +56,7 @@
 	<hr>
   </article>
 
-  <div class="large-9 columns">
+  <div class="large-7 columns">
 
 	<article>
 		<a id="angrybirds"></a>
@@ -164,6 +164,7 @@
 
 <!-- Sidebar -->
 
+<!--
 <aside class="large-3 columns">
 
   <h5>Categories</h5>
@@ -174,14 +175,8 @@
 	<li><a href="#">Fun</a></li>
 	<li><a href="#">Weasels</a></li>
   </ul>
-
-  <div class="panel">
-	<h5>Featured</h5>
-	<p>Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow.</p>
-	<a href="#">Read More &rarr;</a>
-  </div>
 </aside>
-
+-->
 <!-- End Sidebar -->
 </div>
 
