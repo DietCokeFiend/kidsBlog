@@ -14,12 +14,22 @@
 
  <?php include_once("includes/header.php"); ?>
 	<div class="row">
-		<div class="large-8 columns">
-			<h2>Welcome to Kids Summer Zone</h2>
-			<hr />
-            <div class="panel">
-            <img src="img/home-kids.jpg" alt=" playing ball"/>
-            </div>
+		<div class="large-12 columns">
+			<div class="row">
+				<div class="large-8 columns">
+					<h2>Welcome to Kids Summer Zone</h2>
+					<hr />
+					<div class="panel">
+						<img src="img/home-kids.jpg" alt=" playing ball"/>
+					</div>
+				</div>
+				<div class="large-4 columns">
+					<p>
+						Dear Parents:
+						You worked hard 
+					</p>
+				</div>
+			</div>
 		</div>
 	</div>
 
